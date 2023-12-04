@@ -1,4 +1,4 @@
-Bem-vindo ao Wiki do FlowViz!
+Bem-vindo ao Wiki do metricas de fluxo do Azure Devops !
 
 Aqui você encontrará explicações sobre os gráficos dentro do FlowViz e como usá-los, bem como respostas para perguntas que normalmente me fazem. Por favor, entre em contato se achar que algo está faltando ou gostaria de contribuir.
 
@@ -31,4 +31,4 @@ Links Rápidos:
    - [Tempo na Coluna do Quadro](https://github.com/nbrown02/FlowViz/wiki/6.-Efficiency#time-in-board-column)
 7. [FAQs](https://github.com/nbrown02/FlowViz/wiki/7.-FAQs)
 
-Se você quiser saber mais sobre mim ou tiver um pedido, fique à vontade para usar a página de contato no meu [site](https://www.nicolasbrown.co.uk).
+*Este conteúdo é uma tradução do FlowViz
